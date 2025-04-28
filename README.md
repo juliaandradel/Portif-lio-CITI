@@ -14,4 +14,4 @@ Nesse trabalho utilizei as seguintes tecnologias pela primeira vez:
 Para visualizar o portfólio no seu computador basta clonar o repositório: "https://github.com/juliaandradel/Portifolio-CITI" e abrir o arquivo index.html no seu navegador.
 
 
-Espero que tenham gostado de conhecer um pouco mais sobre mim e sobre meu primeiro (de muitos que ainda estão por vir) trabalhos utilizando as tecnologias HTML e CSS.
+Espero que tenham gostado de conhecer um pouco mais sobre mim e sobre meu primeiro (de muitos que ainda estão por vir) trabalho utilizando as tecnologias HTML e CSS.
