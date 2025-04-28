@@ -11,7 +11,7 @@ Nesse trabalho utilizei as seguintes tecnologias pela primeira vez:
 ![image](https://github.com/user-attachments/assets/16a19905-3e60-4322-86d7-1ee743f40e9a)
 
 
-Para visualizar o portfólio basta clonar o repositório:    e abrir o arquivo index.html no seu navegador.
+Para visualizar o portfólio no seu computador basta clonar o repositório:    e abrir o arquivo index.html no seu navegador.
 
 
 Espero que tenham gostado de conhecer um pouco mais sobre mim e sobre meu primeiro (de muitos que ainda estão por vir) trabalhos utilizando as tecnologias HTML e CSS.
